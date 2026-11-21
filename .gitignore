@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#Portfolio Setup
+setup-portfolio.ps1
+setup-portfolio.sh
